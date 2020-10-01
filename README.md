@@ -1,2 +1,2 @@
 # stock-price-predict
-Uniqlo Stock Pride Prediction
+Uniqlo Stock Price Prediction
